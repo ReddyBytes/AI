@@ -47,8 +47,8 @@ You don’t need to be a coder. You need to be a **creative problem solver** who
 
 🔹 What To Learn:
 
-- Prompt frameworks: ReAct, Memory, CoT, Output control
-- Retrieval-Augmented Generation (RAG): how to ground LLMs with your own data
+- [Prompt frameworks:](/Level-2.md#prompt-frameworks-super-instruction-manuals) ReAct, Memory, CoT, Output control
+- [Retrieval-Augmented Generation (RAG):](/Level-2.md#retrieval-augmented-generation-rags-giving-the-robot-a-new-book) how to ground LLMs with your own data
 - API calls, embeddings, fine-tuning basics
 - JSON formatting, function calling, agent memory
 

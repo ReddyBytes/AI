@@ -89,8 +89,9 @@ Imagine you've just arrived in a land filled with amazing talking robots! They c
             Happy in the sun.
             Now, write a haiku about a dog."
     *   **Chain of Thought (CoT):** You ask the robot to "think step-by-step" to solve a problem, especially a tricky one.
-        *   *Example:* "Robot, to figure out how many apples I have left, first tell me how many I started with, then how many I ate, and then subtract to find the answer."
+        *   *Example:* "Robot, to figure out how many apples I have left, first tell me how many I started with, then how many I ate, and then subtract to find the answer."  
 
+`IMP :` To learn more prompting techniques and examples please take a look [**at this chapter**](/Prompt-Engineering.md) as well
 
 4.  **AI Tools (Our First Magic Wands):**
     *   `ChatGPT`: Like a super friendly, know-it-all robot friend you can chat with.
