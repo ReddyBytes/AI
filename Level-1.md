@@ -37,7 +37,7 @@ Imagine you've just arrived in a land filled with amazing talking robots! They c
 
 2.  **Core Concepts (The Robot's Secrets):**
     1.  #### ``Tokens:``  
-        Remember those LEGO bricks? In the AI world, they're called "tokens." A token can be a whole word (like "cat") or part of a word (like "ing" in "playing"). The robot thinks in tokens! Rodel will read eveything in token format only.  
+        Remember those LEGO bricks? In the AI world, they're called "tokens." A token can be a whole word (like "cat") or part of a word (like "ing" in "playing"). The robot thinks in tokens! Model will read eveything in token format only.  
         *   *Example:* "I love ice cream" might be 4 tokens: "I", "love", "ice", "cream".
         * Tokens are important for:  
             > Input limits: GPT models have a maximum number of tokens they can process at once.  
