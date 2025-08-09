@@ -1,11 +1,10 @@
-
 # 🚀 Roadmap to Becoming an AI Generalist
 
 ---
 
 ### Build Once. Solve Anything. Stay Irreplaceable.
 
-### 🎯 Why Become an AI Generalist?
+git ### 🎯 Why Become an AI Generalist?
 
 > 4 out of 5 jobs will be touched or replaced by AI by 2030. The best way to stay ahead? Become the person who knows how to build with it.
 > 
@@ -100,5 +99,3 @@ You don’t need to be a coder. You need to be a **creative problem solver** who
 - Lead teams in AI adoption & evangelism
 
 🔧 Tools: `Ollama`, `Supabase`, `HuggingFace`, `Lovable`, `Cursor`, `Vercel`
-=======
-![AI](/Screenshot%202025-08-10%20at%2000.12.27.png)
