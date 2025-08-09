@@ -4,9 +4,7 @@
 
 ### Build Once. Solve Anything. Stay Irreplaceable.
 
----
-
-### 🎯 Why Become an AI Generalist?
+git ### 🎯 Why Become an AI Generalist?
 
 > 4 out of 5 jobs will be touched or replaced by AI by 2030. The best way to stay ahead? Become the person who knows how to build with it.
 > 
